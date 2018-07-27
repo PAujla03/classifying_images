@@ -1,5 +1,6 @@
-Use a pre-trained CNN image classifier to write a script that identifies whether images are of dogs.
-If the image is identified as a dog, the program will identify the dogs breed.
+Use a pre-trained Convolutional Neural Network (CNN) image classifier to write a script that 
+identifies whether images are of dogs.  If the image is identified as a dog, the program will identify
+the dogs breed.
 
 Principle Objectives:
 1) Correctly identify which pet image are of dogs (even if breed is misclassified) and which images
@@ -42,4 +43,4 @@ comments and function stubs, prior to coding the program.
 
 - Comparing different algorithms' results in accuracy and timing.
 
-- Use of batch files to run multiple programs sequentiall
+- Use of batch files to run multiple programs sequentially
