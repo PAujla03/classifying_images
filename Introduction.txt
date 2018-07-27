@@ -4,7 +4,7 @@ the dogs breed.
 
 Principle Objectives:
 1) Correctly identify which pet image are of dogs (even if breed is misclassified) and which images
-aren't of dogs.
+are not of dogs.
 
 2) Correctly identify breed of dog, for the images that are of dogs.
 

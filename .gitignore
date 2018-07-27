@@ -1,0 +1,8 @@
+# The files listes here will be ignored from git version control.
+# This file should be placed in the same directory as .git
+# Globbing is allowed as follow:
+# # - Marks line as a comment
+# * - Matches 0 ore more characters
+# ? - Matches 1 character
+# [abc] - Matches a, b, or c
+# ** - Matches nested directories - a/**/z matches a/z, a/b/z, a/b/c/z, etc.
