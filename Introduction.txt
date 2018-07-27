@@ -1,0 +1,45 @@
+Use a pre-trained CNN image classifier to write a script that identifies whether images are of dogs.
+If the image is identified as a dog, the program will identify the dogs breed.
+
+Principle Objectives:
+1) Correctly identify which pet image are of dogs (even if breed is misclassified) and which images
+aren't of dogs.
+
+2) Correctly identify breed of dog, for the images that are of dogs.
+
+3) Determine which CNN model acrhitecture (ResNet, AlexNet, or VGG), "best" achieve the objective
+1 and 2.
+
+4) Consider the time resources required to achieve objective 1 and 2, and determine if an alternative
+solution would have given a "good enough" result, give the amount of time each of the algorithms takes
+to run.
+
+Programming Concepts and Skills Covered
+- Creating a blueprint of a more complex program, by outlining and creating the initial program with
+comments and function stubs, prior to coding the program.
+
+- Use of functions for:
+  Task isolation
+  Testing code
+  Code reuse
+
+- Timing runtime of a program to understand algorithm complexity-timing trade-off.
+
+- Use of command line arguments for increased functionality of the program.
+
+- Checking your program and it's functions as you code (Unit Testing).
+
+- Complex Data Structures:
+  Usage of a dictionary of lists
+  Selecting appropriate data structure for data storage
+  Appropriate usage of dictionaries (mutable objects) within functions
+
+- Use of three pre-trained Convolutional Neural Network (CNN) model architectures to classify images.
+
+- Retrieving information from a file, where that information will be used within the program.
+
+- Use of default arguments.
+
+- Comparing different algorithms' results in accuracy and timing.
+
+- Use of batch files to run multiple programs sequentiall

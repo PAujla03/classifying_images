@@ -1,0 +1,16 @@
+CNN Model Architecture: alexnet.
+Number of Images: 40.
+Number of Dog Images: 30.
+Number of NOTDog Images: 10.
+% Correct Dogs: 100.0%.
+% Correct Breed: 80.0%.
+% Correct NOTDogs: 100.0%.
+% Match (incl. dog & not dog): 77.5%.
+Breed misclassificaiton: pet image golden retriever and classifier afghan hound, afghan label.
+Breed misclassificaiton: pet image boston terrier and classifier basenji label.
+Breed misclassificaiton: pet image beagle and classifier english foxhound label.
+Breed misclassificaiton: pet image beagle and classifier walker hound, walker foxhound label.
+Breed misclassificaiton: pet image golden retriever and classifier tibetan mastiff label.
+Breed misclassificaiton: pet image great pyrenees and classifier kuvasz label.
+
+** Total Elapsed Runtime: 0:0:3
